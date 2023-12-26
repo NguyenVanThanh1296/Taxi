@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "984321030154",
+    "project_id": "todoappflutter-44a31",
+    "storage_bucket": "todoappflutter-44a31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984321030154:android:faa0588472166104e207f3",
+        "android_client_info": {
+          "package_name": "com.example.taxi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBReQ28KbQ0SJxtWF36X5tAwBdyhKJSRwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
